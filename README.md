@@ -39,7 +39,7 @@
 #### Studying in this moment:
 
 ![Ruby]()&nbsp;
-![SQL](file:///C:/Users/800007580/Documents/Untitled-1.html)&nbsp;
+![SQL]()&nbsp;
 
 #### Databases:
 
